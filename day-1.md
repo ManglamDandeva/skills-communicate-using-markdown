@@ -1,5 +1,9 @@
 <h1> # Daily Learning </h1>
+
 <h2> ## Morning Planning </h2>
+<h1>![Cloudy morning](https://octodex.github.com/images/cloud.jpg)</h1>
+
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 <h2>
   - [ ] Check out the [github blog](https://github.blog/) for topic ideas.</h2>
   <h2>
